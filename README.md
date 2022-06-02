@@ -4,15 +4,12 @@ The goal of project 3 was to gain experience interpreting writing code based of 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# We practiced the follow skills within this project:
+## We practiced the follow skills within this project:
 
--Practice creating and using code modules 
-
--Practice refactoring using modern JavaScript syntax 
-
--Practice using Fastify with the GET verb, routes, and query parameters 
-
--Practice loading a file to be used as a web page
+- Practice creating and using code modules 
+- Practice refactoring using modern JavaScript syntax 
+- Practice using Fastify with the GET verb, routes, and query parameters 
+- Practice loading a file to be used as a web page
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
