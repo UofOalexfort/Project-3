@@ -2,6 +2,8 @@
 
 The goal of project 3 was to gain experience interpreting writing code based of functional descriptions/specifications. We also gained experience breaking a project into manageable components and worked on writing and executing non-web server Node.js JavaScript code. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # We practiced the follow skills within this project:
 
 -Practice creating and using code modules 
